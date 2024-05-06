@@ -28,8 +28,8 @@ const Portfolio = () => {
         {
             id:3,
             src:secrets,
-            demo:'',
-            code:'',
+            demo:'https://github.com/Kuldeep9870/Secrets-Site',
+            code:'https://secrets-site-l5zb.onrender.com',
 
         },
         {
